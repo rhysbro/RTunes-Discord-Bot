@@ -12,6 +12,9 @@ Checkout RTunes Discord Bot, one of the best Music bots upcoming.
 
 http://rtunes.cf/?i=1
 
+invite the bot: 
+https://discord.com/oauth2/authorize?client_id=853056131672309833&permissions=0&scope=bot
+
 
 
 
